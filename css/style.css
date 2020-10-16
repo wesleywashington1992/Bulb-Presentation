@@ -1,0 +1,42 @@
+.hpBg{ 
+     background-color:black;
+     color:white;
+     font-size: 20px;
+}
+
+
+
+
+
+.homePgHeader{
+    text-align: center;
+    color:orange;
+} 
+
+.homePgHeader, .servHeader{
+    color: orange; 
+    font-size: 30px;
+} 
+
+.hpAboutLink{ 
+    background-color: black;
+    color:white;
+    position: absolute;
+    padding: 5px;
+} 
+
+
+.hpAboutLink:hover{ 
+    background: yellow;
+    color: black;
+} 
+
+img{
+    width: 100%;
+}
+
+.Head{
+    color: white;
+}
+    
+
